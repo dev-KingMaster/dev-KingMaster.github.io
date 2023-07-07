@@ -3,7 +3,7 @@ date: '2020-07-01'
 title: 'Frontend Engineer'
 company: 'IT-Scient'
 location: Fremont, CA, United States
-range: 'JUN 2017 – JAN 2019'
+range: 'JUN 2016 – JAN 2018'
 url: ''
 ---
 

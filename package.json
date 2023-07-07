@@ -2,8 +2,8 @@
   "name": "v1",
   "description": "Personal Website V1",
   "version": "1.0.0",
-  "author": "James Lin <jgreen813122@gmail.com>",
-  "homepage": "http://dev-KingMaster.github.io",
+  "author": "James Bai <jgreen813122@gmail.com>",
+  "homepage": "http://dev-KingMaster.github.io/dev-KingMaster",
   "repository": {
     "type": "git",
     "url": "https://github.com/dev-KingMaster.github.io"
@@ -19,7 +19,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public"
+    "deploy": "gatsby build && gh-pages -b main -d public"
   },
   "husky": {
     "hooks": {

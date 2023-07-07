@@ -3,7 +3,7 @@ date: '2021-05-19'
 title: 'Full stack engineer'
 company: 'IT-Scient'
 location: remote
-range: 'JAN 2019 – MAY 2022'
+range: 'JAN 2018 – MAY 2021'
 url: ''
 ---
 

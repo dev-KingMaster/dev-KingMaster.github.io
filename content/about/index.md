@@ -11,9 +11,9 @@ skills:
   - Mentoring
 ---
 
-Hello! I'm James Lin.
+Hello! I'm James Bai.
 
-Innovative, task-driven professional with 6+ years of experience in web development across
+Innovative, task-driven professional with 7+ years of experience in web development across
 diverse industries.
 
 Proficient in developing databases, creating user interfaces, writing and testing codes, troubleshooting simple/complex issues. Have a great sense of understanding the business ideas clearly, writing easily understandable & clean and best-practice codes.

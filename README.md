@@ -5,7 +5,7 @@
   Portfolio Website Version 1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://dev-KingMaster.github.io/" target="_blank">James Lin's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  The first iteration of <a href="https://dev-KingMaster.github.io/" target="_blank">James Bai's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 <!-- <p align="center">
   Previous iterations:

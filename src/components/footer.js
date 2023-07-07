@@ -106,8 +106,8 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by James Lin<br></br>
-            Revised by James Lin
+            Designed &amp; Built by James Bai<br></br>
+            Revised by James Bai
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

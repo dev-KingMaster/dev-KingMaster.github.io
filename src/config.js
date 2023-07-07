@@ -1,13 +1,13 @@
 module.exports = {
-  siteTitle: 'James Lin',
-  siteDescription: 'James Lin is a senior full stack engineer, who thrive on challenges.',
+  siteTitle: 'James Bai',
+  siteDescription: 'James Bai is a senior full stack engineer, who thrive on challenges.',
   siteKeywords:
-    'James Lin, James, Lin, jameslin, software engineer, web developer, javascript, python, java, svvv, typescript, react, angular, django, node.js, AWS, MongoDB, PostgreSQL',
+    'James Bai, James, Bai, jameslin, software engineer, web developer, javascript, python, java, svvv, typescript, react, angular, django, node.js, AWS, MongoDB, PostgreSQL',
   siteUrl: 'https://yashitanamdeo.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'James Lin',
+  name: 'James Bai',
   location: 'CA, US',
   email: 'jgreen813122@gmail.com',
   github: 'https://github.com/dev-KingMaster',
