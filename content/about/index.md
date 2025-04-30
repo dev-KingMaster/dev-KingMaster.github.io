@@ -11,7 +11,7 @@ skills:
   - Mentoring
 ---
 
-Hello! I'm James Bai.
+Hello! I'm James Pore.
 
 Innovative, task-driven professional with 7+ years of experience in web development across
 diverse industries.

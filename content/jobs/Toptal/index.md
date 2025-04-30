@@ -1,9 +1,9 @@
 ---
 date: '2021-06-11'
 title: 'Senior Full Stack Engineer'
-company: 'Toptal'
+company: 'KLEER AND MEMBER'
 location: remote
-range: 'MAY 2021 - June 2023'
+range: 'MAY 2021 - Present'
 url: ''
 ---
 

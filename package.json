@@ -2,7 +2,7 @@
   "name": "v1",
   "description": "Personal Website V1",
   "version": "1.0.0",
-  "author": "James Bai <jgreen813122@gmail.com>",
+  "author": "James Pore <james33037@gmail.com>",
   "homepage": "http://dev-KingMaster.github.io/dev-KingMaster",
   "repository": {
     "type": "git",
@@ -63,7 +63,8 @@
     "react-transition-group": "^4.3.0",
     "scrollreveal": "^4.0.5",
     "smooth-scroll": "^16.1.0",
-    "styled-components": "^4.4.0"
+    "styled-components": "^4.4.0",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@upstatement/eslint-config": "0.4.3",
